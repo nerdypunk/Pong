@@ -13,12 +13,10 @@
 
     Originalmente programado por Atari en 1972
 
-    Esta version esta adaptada para parecerse mas 
-    a la version de NES que a la version original 
-    de cabinet o del Atari 2600 en cuanto a temas
-    de resolucion. La resolucion esta adaptada para
-    ser widescreen y visualizarse mejor en dispositivos
-    modernos.
+    Esta version esta adaptada para parecerse mas a la version 
+    de NES que a la version original de cabinet o del Atari 2600 
+    en cuanto a temas de resolucion. La resolucion esta adaptada 
+    para ser widescreen y visualizarse mejor en dispositivos modernos.
 ]]
 
 -- push is a library that will allow us to draw our game at a virtual
