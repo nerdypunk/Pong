@@ -3,6 +3,7 @@
     Pong Remake
 
     pong-1
+
     "The Low-Res Update"
 
     -- Main Program --
@@ -10,12 +11,14 @@
     Author: Colton Ogden
     cogden@cs50.harvard.edu
 
-    Originalmente programador por Atari en 1972
+    Originalmente programado por Atari en 1972
 
-    This version is built to more closely resemble the NES than
-    the original Pong machines or the Atari 2600 in terms of
-    resolution, though in widescreen (16:9) so it looks nicer on 
-    modern systems.
+    Esta version esta adaptada para parecerse mas 
+    a la version de NES que a la version original 
+    de cabinet o del Atari 2600 en cuanto a temas
+    de resolucion. La resolucion esta adaptada para
+    ser widescreen y visualizarse mejor en dispositivos
+    modernos.
 ]]
 
 -- push is a library that will allow us to draw our game at a virtual
